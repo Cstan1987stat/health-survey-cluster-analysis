@@ -1,0 +1,416 @@
+
+
+===========================
+Contingency table for Sex and Cancer in %
+===========================
+        
+            Yes     No    Sum
+  Male     5.36  42.34  47.70
+  Female   6.81  45.49  52.30
+  Sum     12.17  87.83 100.00
+
+
+===========================
+Contingency table for Sex and Coronary_heart_disease in %
+===========================
+        
+            Yes     No    Sum
+  Male     3.66  44.04  47.70
+  Female   2.08  50.22  52.30
+  Sum      5.74  94.26 100.00
+
+
+===========================
+Contingency table for Sex and Depression in %
+===========================
+        
+            Yes     No    Sum
+  Male     6.60  41.10  47.70
+  Female  13.06  39.24  52.30
+  Sum     19.66  80.34 100.00
+
+
+===========================
+Contingency table for Sex and Smoked_100_cig in %
+===========================
+        
+            Yes     No    Sum
+  Male    21.58  26.12  47.70
+  Female  18.39  33.91  52.30
+  Sum     39.97  60.03 100.00
+
+
+===========================
+Contingency table for Sex and Education in %
+===========================
+        
+           1-11   12th    GED High School Some College Assoc Tech Assoc Acad
+  Male     2.88   0.71   1.25       10.79         6.91       1.84       4.17
+  Female   2.34   0.72   1.00       10.54         8.15       2.07       5.50
+  Sum      5.22   1.43   2.25       21.33        15.06       3.91       9.67
+        
+           Bach   Mast   Prof    Sum
+  Male    11.72   5.07   2.38  47.72
+  Female  13.06   7.00   1.92  52.30
+  Sum     24.78  12.07   4.30 100.02
+
+
+===========================
+Contingency table for Sex and Region in %
+===========================
+        
+         Northeast Midwest  South   West    Sum
+  Male        7.71   10.93  16.89  12.17  47.70
+  Female      8.81   11.90  19.08  12.52  52.31
+  Sum        16.52   22.83  35.97  24.69 100.01
+
+
+===========================
+Contingency table for Sex and Anxiety in %
+===========================
+        
+         Daily Weekly Monthly Few times Y Never   Sum
+  Male    5.01   6.37    5.23       15.64 15.44 47.69
+  Female  8.52   9.21    6.99       17.67  9.91 52.30
+  Sum    13.53  15.58   12.22       33.31 25.35 99.99
+
+
+===========================
+Contingency table for Sex and Aerobic.Strength in %
+===========================
+        
+         Neither Strength Aerobic   Both    Sum
+  Male     18.67     3.14   12.02  13.87  47.70
+  Female   24.83     3.50   12.04  11.93  52.30
+  Sum      43.50     6.64   24.06  25.80 100.00
+
+
+===========================
+Contingency table for Cancer and Coronary_heart_disease in %
+===========================
+     
+         Yes     No    Sum
+  Yes   1.52  10.64  12.16
+  No    4.22  83.62  87.84
+  Sum   5.74  94.26 100.00
+
+
+===========================
+Contingency table for Cancer and Depression in %
+===========================
+     
+         Yes     No    Sum
+  Yes   2.77   9.39  12.16
+  No   16.89  70.95  87.84
+  Sum  19.66  80.34 100.00
+
+
+===========================
+Contingency table for Cancer and Smoked_100_cig in %
+===========================
+     
+         Yes     No    Sum
+  Yes   5.85   6.31  12.16
+  No   34.11  53.73  87.84
+  Sum  39.96  60.04 100.00
+
+
+===========================
+Contingency table for Cancer and Education in %
+===========================
+     
+        1-11   12th    GED High School Some College Assoc Tech Assoc Acad
+  Yes   0.54   0.16   0.26        2.38         1.79       0.55       1.20
+  No    4.69   1.27   1.99       18.94        13.27       3.35       8.47
+  Sum   5.23   1.43   2.25       21.32        15.06       3.90       9.67
+     
+        Bach   Mast   Prof    Sum
+  Yes   2.90   1.68   0.71  12.17
+  No   21.88  10.39   3.59  87.84
+  Sum  24.78  12.07   4.30 100.01
+
+
+===========================
+Contingency table for Cancer and Region in %
+===========================
+     
+      Northeast Midwest  South   West    Sum
+  Yes      1.90    3.02   4.43   2.82  12.17
+  No      14.62   19.81  31.54  21.86  87.83
+  Sum     16.52   22.83  35.97  24.68 100.00
+
+
+===========================
+Contingency table for Cancer and Anxiety in %
+===========================
+     
+       Daily Weekly Monthly Few times Y  Never    Sum
+  Yes   1.65   1.54    1.15        4.33   3.49  12.16
+  No   11.89  14.04   11.07       28.98  21.86  87.84
+  Sum  13.54  15.58   12.22       33.31  25.35 100.00
+
+
+===========================
+Contingency table for Cancer and Aerobic.Strength in %
+===========================
+     
+      Neither Strength Aerobic   Both    Sum
+  Yes    5.73     0.93    3.11   2.39  12.16
+  No    37.77     5.71   20.94  23.42  87.84
+  Sum   43.50     6.64   24.05  25.81 100.00
+
+
+===========================
+Contingency table for Coronary_heart_disease and Depression in %
+===========================
+     
+         Yes     No    Sum
+  Yes   1.52   4.22   5.74
+  No   18.14  76.12  94.26
+  Sum  19.66  80.34 100.00
+
+
+===========================
+Contingency table for Coronary_heart_disease and Smoked_100_cig in %
+===========================
+     
+         Yes     No    Sum
+  Yes   3.38   2.36   5.74
+  No   36.58  57.68  94.26
+  Sum  39.96  60.04 100.00
+
+
+===========================
+Contingency table for Coronary_heart_disease and Education in %
+===========================
+     
+        1-11   12th    GED High School Some College Assoc Tech Assoc Acad
+  Yes   0.57   0.10   0.19        1.37         0.97       0.28       0.54
+  No    4.65   1.33   2.06       19.96        14.08       3.63       9.14
+  Sum   5.22   1.43   2.25       21.33        15.05       3.91       9.68
+     
+        Bach   Mast   Prof    Sum
+  Yes   0.94   0.55   0.23   5.74
+  No   23.83  11.52   4.07  94.27
+  Sum  24.77  12.07   4.30 100.01
+
+
+===========================
+Contingency table for Coronary_heart_disease and Region in %
+===========================
+     
+      Northeast Midwest  South   West    Sum
+  Yes      1.02    1.41   2.23   1.08   5.74
+  No      15.50   21.42  33.74  23.60  94.26
+  Sum     16.52   22.83  35.97  24.68 100.00
+
+
+===========================
+Contingency table for Coronary_heart_disease and Anxiety in %
+===========================
+     
+      Daily Weekly Monthly Few times Y Never   Sum
+  Yes  0.90   0.67    0.49        1.89  1.79  5.74
+  No  12.63  14.91   11.73       31.42 23.56 94.25
+  Sum 13.53  15.58   12.22       33.31 25.35 99.99
+
+
+===========================
+Contingency table for Coronary_heart_disease and Aerobic.Strength in %
+===========================
+     
+      Neither Strength Aerobic   Both    Sum
+  Yes    3.44     0.33    1.18   0.79   5.74
+  No    40.06     6.31   22.88  25.02  94.27
+  Sum   43.50     6.64   24.06  25.81 100.01
+
+
+===========================
+Contingency table for Depression and Smoked_100_cig in %
+===========================
+     
+         Yes     No    Sum
+  Yes   9.95   9.71  19.66
+  No   30.02  50.32  80.34
+  Sum  39.97  60.03 100.00
+
+
+===========================
+Contingency table for Depression and Education in %
+===========================
+     
+       1-11  12th   GED High School Some College Assoc Tech Assoc Acad  Bach
+  Yes  1.17  0.29  0.54        4.03         3.62       0.84       1.97  4.20
+  No   4.05  1.13  1.71       17.29        11.43       3.06       7.70 20.58
+  Sum  5.22  1.42  2.25       21.32        15.05       3.90       9.67 24.78
+     
+       Mast  Prof   Sum
+  Yes  2.17  0.83 19.66
+  No   9.91  3.47 80.33
+  Sum 12.08  4.30 99.99
+
+
+===========================
+Contingency table for Depression and Region in %
+===========================
+     
+      Northeast Midwest South  West   Sum
+  Yes      3.03    4.87  6.95  4.80 19.65
+  No      13.49   17.96 29.01 19.88 80.34
+  Sum     16.52   22.83 35.96 24.68 99.99
+
+
+===========================
+Contingency table for Depression and Anxiety in %
+===========================
+     
+      Daily Weekly Monthly Few times Y Never   Sum
+  Yes  7.36   5.04    2.49        3.63  1.14 19.66
+  No   6.17  10.54    9.73       29.68 24.21 80.33
+  Sum 13.53  15.58   12.22       33.31 25.35 99.99
+
+
+===========================
+Contingency table for Depression and Aerobic.Strength in %
+===========================
+     
+      Neither Strength Aerobic   Both    Sum
+  Yes   10.52     1.34    4.14   3.67  19.67
+  No    32.98     5.30   19.92  22.14  80.34
+  Sum   43.50     6.64   24.06  25.81 100.01
+
+
+===========================
+Contingency table for Smoked_100_cig and Education in %
+===========================
+     
+        1-11   12th    GED High School Some College Assoc Tech Assoc Acad
+  Yes   3.03   0.70   1.49       10.22         6.85       1.80       4.33
+  No    2.20   0.72   0.76       11.11         8.21       2.11       5.34
+  Sum   5.23   1.42   2.25       21.33        15.06       3.91       9.67
+     
+        Bach   Mast   Prof    Sum
+  Yes   7.33   3.13   1.10  39.98
+  No   17.45   8.94   3.20  60.04
+  Sum  24.78  12.07   4.30 100.02
+
+
+===========================
+Contingency table for Smoked_100_cig and Region in %
+===========================
+     
+      Northeast Midwest South  West   Sum
+  Yes      6.51    9.52 15.10  8.83 39.96
+  No      10.01   13.31 20.86 15.85 60.03
+  Sum     16.52   22.83 35.96 24.68 99.99
+
+
+===========================
+Contingency table for Smoked_100_cig and Anxiety in %
+===========================
+     
+       Daily Weekly Monthly Few times Y  Never    Sum
+  Yes   6.75   5.73    4.46       12.92  10.10  39.96
+  No    6.78   9.86    7.76       20.39  15.25  60.04
+  Sum  13.53  15.59   12.22       33.31  25.35 100.00
+
+
+===========================
+Contingency table for Smoked_100_cig and Aerobic.Strength in %
+===========================
+     
+      Neither Strength Aerobic   Both    Sum
+  Yes   19.56     2.44    9.87   8.10  39.97
+  No    23.94     4.20   14.19  17.71  60.04
+  Sum   43.50     6.64   24.06  25.81 100.01
+
+
+===========================
+Contingency table for Education and Region in %
+===========================
+              
+               Northeast Midwest South  West   Sum
+  1-11              0.67    0.98  2.31  1.26  5.22
+  12th              0.14    0.22  0.68  0.38  1.42
+  GED               0.26    0.56  1.01  0.41  2.24
+  High School       3.62    5.30  7.95  4.46 21.33
+  Some College      1.98    3.34  5.54  4.19 15.05
+  Assoc Tech        0.57    1.11  1.34  0.89  3.91
+  Assoc Acad        1.57    2.45  3.41  2.24  9.67
+  Bach              4.27    5.45  8.20  6.86 24.78
+  Mast              2.60    2.55  4.02  2.90 12.07
+  Prof              0.83    0.87  1.51  1.09  4.30
+  Sum              16.51   22.83 35.97 24.68 99.99
+
+
+===========================
+Contingency table for Education and Anxiety in %
+===========================
+              
+                Daily Weekly Monthly Few times Y  Never    Sum
+  1-11           0.85   0.64    0.47        1.56   1.70   5.22
+  12th           0.26   0.14    0.08        0.43   0.52   1.43
+  GED            0.35   0.28    0.25        0.66   0.71   2.25
+  High School    2.98   2.65    2.12        7.06   6.51  21.32
+  Some College   2.41   2.32    1.79        4.60   3.94  15.06
+  Assoc Tech     0.58   0.47    0.38        1.39   1.10   3.92
+  Assoc Acad     1.29   1.43    1.17        3.36   2.42   9.67
+  Bach           2.94   4.54    3.54        8.46   5.30  24.78
+  Mast           1.33   2.26    1.88        4.39   2.22  12.08
+  Prof           0.55   0.84    0.55        1.40   0.95   4.29
+  Sum           13.54  15.57   12.23       33.31  25.37 100.02
+
+
+===========================
+Contingency table for Education and Aerobic.Strength in %
+===========================
+              
+               Neither Strength Aerobic   Both    Sum
+  1-11            3.55     0.23    1.01   0.43   5.22
+  12th            0.81     0.07    0.35   0.20   1.43
+  GED             1.30     0.18    0.48   0.29   2.25
+  High School    11.43     1.39    4.97   3.53  21.32
+  Some College    6.91     1.02    3.54   3.59  15.06
+  Assoc Tech      1.90     0.22    1.03   0.76   3.91
+  Assoc Acad      4.11     0.82    2.32   2.43   9.68
+  Bach            8.31     1.65    6.21   8.61  24.78
+  Mast            3.88     0.79    3.02   4.39  12.08
+  Prof            1.30     0.28    1.13   1.59   4.30
+  Sum            43.50     6.65   24.06  25.82 100.03
+
+
+===========================
+Contingency table for Region and Anxiety in %
+===========================
+           
+            Daily Weekly Monthly Few times Y Never   Sum
+  Northeast  2.28   2.50    2.09        5.51  4.14 16.52
+  Midwest    3.13   3.60    2.97        7.44  5.69 22.83
+  South      4.92   5.28    4.05       12.19  9.52 35.96
+  West       3.20   4.19    3.11        8.17  6.01 24.68
+  Sum       13.53  15.57   12.22       33.31 25.36 99.99
+
+
+===========================
+Contingency table for Region and Aerobic.Strength in %
+===========================
+           
+            Neither Strength Aerobic  Both   Sum
+  Northeast    7.25     1.09    4.03  4.14 16.51
+  Midwest     10.22     1.55    5.47  5.59 22.83
+  South       16.75     2.40    8.12  8.70 35.97
+  West         9.27     1.60    6.43  7.38 24.68
+  Sum         43.49     6.64   24.05 25.81 99.99
+
+
+===========================
+Contingency table for Anxiety and Aerobic.Strength in %
+===========================
+             
+              Neither Strength Aerobic  Both   Sum
+  Daily          6.92     0.86    2.98  2.77 13.53
+  Weekly         6.64     1.08    3.61  4.26 15.59
+  Monthly        5.02     0.77    2.80  3.62 12.21
+  Few times Y   13.92     2.34    8.03  9.02 33.31
+  Never         10.99     1.59    6.64  6.13 25.35
+  Sum           43.49     6.64   24.06 25.80 99.99
