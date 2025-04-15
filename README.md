@@ -7,8 +7,13 @@ This project analyzes the 2022 NHIS (National Health Interview Survey) data to i
 * **[data preprocessing](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_preprocessing.ipynb)**: Code used to prreprocess the inital 2022 NHIS survey data, exported as [adult_22_filtered.csv](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/adult22_filtered.csv)
 
 
-* The [data understanding](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_understanding.ipynb) notebook finds the out how many rows and columns the data has, discusses what variables are categorical and numerical, along with ordinal vs nominal, and confirms there are no missing values.
-* The [univariate analysis](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/univariate_analysis.ipynb) notebook includes the code used to analyze each singular variable. For the numeric variables: summary statistics, density plots, and boxplots were created. For the categorical variables: barplots and proportion tables were created.
+* **[data understanding](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_understanding.ipynb)**: Analysis of dataset dimensions, variable types (categorical vs numerical, ordinal vs nominal), and data completeness. 
+
+* **[univariate analysis](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/univariate_analysis.ipynb)**: Analysis of individual variables with:
+  * Numerical variables: Summary statistics, density plots, and boxplots.
+  * Categorical variables: Bar plots and proportion tables. 
+
+
 * The [numerical bivariate analysis](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/bivariate_analysis_notebooks/numerical_bivariate_analysis.ipynb) notebooks provides a correlation heatmap and scatterplot for the numerical variables.
 * The [categorical mixed bivariate analysis](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/bivariate_analysis_notebooks/categorical_mixed_bivariate_analysis.ipynb) notebook provides contingecy tables, chi-square tests results, and stacked bar charts for categorical variables. It also looks at the relationship between categorical and numerical variables by calculating the group-wise summary statistics, grouped boxplots, two-sample t-tests results, and ANOVA results.
  
