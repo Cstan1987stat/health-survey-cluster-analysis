@@ -2,4 +2,9 @@
 
 
 * The [data preprocessing](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_preprocessing.ipynb) notebook includes the code used to preprocess the inital 2022 NHIS survey data, and then export it as a new file [adult 22 filtered data](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/adult22_filtered.csv).
-* The [data understanding](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_understanding.ipynb) notebook finds the out how many rows and columns the data has, discusses what variables are categorical and numerical, along with ordinal vs nominal.
+
+* The [data understanding](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_understanding.ipynb) notebook finds the out how many rows and columns the data has, discusses what variables are categorical and numerical, along with ordinal vs nominal, and confirms there are no missing values.
+
+* The [univariate analysis](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/univariate_analysis.ipynb) notebook includes the code used to analyze each singular variable. For the numeric variables: summary statistics, density plots, and boxplots were created. For the categorical variables: barplots and proportion tables were created.
+
+* d
