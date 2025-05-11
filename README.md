@@ -4,7 +4,7 @@
 This project analyzes the 2022 NHIS (National Health Interview Survey) data to identify patterns and clusters among health indicators with R. Using exploratory data analysis, dimensionality reduction techniques, and clustering algorithms, this analysis aims to uncover meaningful segments within health survey respondents.
 
 ### Completed Work
-* **[data preprocessing](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_preprocessing.ipynb)**: Code used to prreprocess the inital 2022 NHIS survey data, exported as [adult22_filtered.csv](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/adult22_filtered.csv)
+* **[data preprocessing](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_preprocessing.ipynb)**: Code used to preprocess the inital 2022 NHIS survey data, exported as [adult22_filtered.csv](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/adult22_filtered.csv)
 * **[data understanding](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/data_understanding.ipynb)**: Analysis of dataset dimensions, variable types (categorical vs numerical, ordinal vs nominal), and data completeness. 
 * **[univariate analysis](https://github.com/Cstan1987stat/health-survey-cluster-analysis/blob/main/notebooks/univariate_analysis.ipynb)**: Analysis of individual variables with:
   * Numerical variables: Summary statistics, density plots, and boxplots.
